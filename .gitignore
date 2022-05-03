@@ -1,3 +1,5 @@
+prod.db*
+
 HELP.md
 .gradle
 build/
